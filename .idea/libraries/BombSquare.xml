@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BombSquare">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BombSquare.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
